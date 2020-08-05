@@ -7,8 +7,8 @@ library(shinyFiles)
 
 
 # First you need to set up your accound SID and token as environmental variables
-Sys.setenv(TWILIO_SID = "****02e4dd7dc36303e61615be88c85feb")
-Sys.setenv(TWILIO_TOKEN = "****e77210501324c36202d4bce72186")
+Sys.setenv(TWILIO_SID = "*******************************")
+Sys.setenv(TWILIO_TOKEN = "*******************************")
 # https://stackoverflow.com/questions/20577764/set-locale-to-system-default-utf-8
 # https://crontab.guru/#58_12_*_*_1-6
 Sys.getenv('LANG')
